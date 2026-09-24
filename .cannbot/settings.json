@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "mode": "interactive",
+  "surveyed": false,
+  "plugins": {
+    "plugin-experience-summary": {
+      "hook": "before:7.1",
+      "stages": [
+        "plugin-experience-summary-1",
+        "plugin-experience-summary-2",
+        "plugin-experience-summary-3",
+        "plugin-experience-summary-4"
+      ],
+      "standalone": true,
+      "enabled": true
+    },
+    "plugin-perf-iteration": {
+      "hook": "after:4.1",
+      "stages": [
+        "plugin-perf-iteration-1",
+        "plugin-perf-iteration-2"
+      ],
+      "standalone": true,
+      "enabled": true
+    },
+    "plugin-pr-submit": {
+      "hook": "after:6.1",
+      "stages": [
+        "plugin-pr-submit-1",
+        "plugin-pr-submit-2",
+        "plugin-pr-submit-3",
+        "plugin-pr-submit-4"
+      ],
+      "standalone": true,
+      "enabled": true
+    }
+  },
+  "updated_at": "2026-09-24T04:57:51Z"
+}

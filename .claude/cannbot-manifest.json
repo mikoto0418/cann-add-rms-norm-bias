@@ -1,0 +1,17 @@
+{
+  "brand": "CANNBot",
+  "version": "1.0.0",
+  "team": "ops-direct-invoke",
+  "level": "project",
+  "tool": "claude",
+  "installed_skills": ["ascendc-api-best-practices", "ascendc-blaze-best-practice", "ascendc-crash-debug", "ascendc-direct-invoke-template", "ascendc-docs-gen", "ascendc-docs-search", "ascendc-env-check", "ascendc-mc2-best-practice", "ascendc-perf-optimize", "ascendc-performance-best-practices", "ascendc-precision-debug", "ascendc-regbase-best-practice", "ascendc-simt-best-practices", "ascendc-st-design", "ascendc-tiling-design", "ascendc-ut-develop", "ascendc-whitebox-design", "cannbot-skill-reviewer", "gitcode-issue-gen", "gitcode-issue-handler", "gitcode-pr-handler", "gitcode-toolkit", "npu-arch", "ops-direct-invoke-workflow", "ops-direct-invoke-workflow-maintain", "ops-precision-standard", "ops-profiling", "ops-simulator", "plugin-experience-summary", "plugin-perf-iteration", "plugin-pr-submit", "repo-build-guide", "repo-coding-rules", "repo-knowledge", "repo-op-templates", "repo-test-develop", "workflow-agent-permissions", "workflow-cp0", "workflow-cp1", "workflow-cp2-1", "workflow-cp2-2", "workflow-cp3", "workflow-cp4", "workflow-cp5", "workflow-doc-templates"],
+  "installed_agents": ["architect", "developer-code", "developer-doc", "developer-test", "developer", "qa"],
+  "brand_dir": "/f/2026work/hw/.claude",
+  "skill_discovery_root": "/f/2026work/hw/.claude/skills",
+  "agent_discovery_root": "/f/2026work/hw/.claude/agents",
+  "mid_dir": "/f/2026work/hw/.cannbot",
+  "asc_devkit_dir": "/f/2026work/hw/.cannbot/asc-devkit",
+  "cann_samples_dir": "/f/2026work/hw/.cannbot/cann-samples",
+  "ops_tensor_dir": "/f/2026work/hw/.cannbot/ops-tensor",
+  "install_time": "2026-09-24T05:00:15Z"
+}
